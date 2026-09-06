@@ -1,9 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1024 1024" role="img" aria-label="Ayumu AY monogram">
-  <rect width="1024" height="1024" fill="#050505"/>
-  <g fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round">
-    <path d="M74 390C146 182 363 131 520 259C673 383 785 155 950 286" stroke-width="18" opacity=".22"/>
-    <path d="M74 654C221 809 361 660 506 735C656 813 790 743 950 582" stroke-width="13" opacity=".13"/>
-    <path d="M174 772L337 252L500 772M235 579H439" stroke-width="76"/>
-    <path d="M527 279L681 510L835 279M681 510V772" stroke-width="76"/>
-  </g>
-</svg>
